@@ -1,0 +1,2 @@
+05/09/2022 02:00:23 AM: [ Process rank: -1, device: cuda, n_gpu: 1, distributed training: False ]
+05/09/2022 02:00:26 AM: [ reload model from ../output/roberta-java/checkpoint-best-bleu/pytorch_model.bin ]
